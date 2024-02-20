@@ -1,0 +1,3 @@
+docker start -i interesting_kirch
+nano /usr/src/app/index.js
+exit

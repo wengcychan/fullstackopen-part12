@@ -1,0 +1,3 @@
+docker start -i interesting_kirch
+curl -sL https://deb.nodesource.com/setup_16.x | bash apt install -y nodejs
+node /usr/src/app/index.js
